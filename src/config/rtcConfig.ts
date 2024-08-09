@@ -11,9 +11,9 @@ export const rtcConfig: RTCConfiguration = {
   // CONNECTED TO THE INTERNET.
   iceServers: [
     {
-      urls: 'turn:relay1.expressturn.com:3478',
-      username: 'efQUQ79N77B5BNVVKF',
-      credential: 'N4EAUgpjMzPLrxSS',
+      urls: 'turn:35.94.61.50:3478',
+      username: 'unrushedearflap',
+      credential: 'q8xNbdYi3Wp5x',
     },
   ],
 }
