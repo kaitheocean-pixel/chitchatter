@@ -1,4 +1,5 @@
 let trackerUrls: string[] | undefined = [
+  'wss://tracker.files.fm:7073/announce'
   // If you would like to host your own Chitchatter instance with alternative
   // WebTorrent trackers to connect peers, add them to this array. This array
   // gets provided to Trystero as the `trackerUrls` configuration option:
